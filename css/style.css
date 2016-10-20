@@ -1,0 +1,18 @@
+.img-responsive {
+    margin: 0 auto;
+}
+
+.main-div {
+  background-color: orange;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5%;
+}
+
+.photo-frame {
+  background-color: white;
+  width: 30em;
+  margin: 0 auto;
+  padding: 1em;
+}
